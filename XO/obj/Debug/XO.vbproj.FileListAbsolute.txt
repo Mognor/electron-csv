@@ -1,0 +1,13 @@
+C:\Users\MI PC\Documents\XO\XO\bin\Debug\XO.exe.config
+C:\Users\MI PC\Documents\XO\XO\bin\Debug\XO.exe
+C:\Users\MI PC\Documents\XO\XO\bin\Debug\XO.pdb
+C:\Users\MI PC\Documents\XO\XO\bin\Debug\XO.xml
+C:\Users\MI PC\Documents\XO\XO\obj\Debug\XO.vbprojAssemblyReference.cache
+C:\Users\MI PC\Documents\XO\XO\obj\Debug\XO.Form1.resources
+C:\Users\MI PC\Documents\XO\XO\obj\Debug\XO.Resources.resources
+C:\Users\MI PC\Documents\XO\XO\obj\Debug\XO.vbproj.GenerateResource.cache
+C:\Users\MI PC\Documents\XO\XO\obj\Debug\XO.exe
+C:\Users\MI PC\Documents\XO\XO\obj\Debug\XO.xml
+C:\Users\MI PC\Documents\XO\XO\obj\Debug\XO.pdb
+C:\Users\MI PC\Documents\XO\XO\obj\Debug\XO.Lista_x_o.resources
+C:\Users\MI PC\Documents\XO\XO\obj\Debug\XO.Form2.resources
